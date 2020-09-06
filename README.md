@@ -1,1 +1,1 @@
-# smash-it
+index.html
